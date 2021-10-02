@@ -16,5 +16,5 @@ Final dimensions are reduced to two through a t_SNE, which are then plotted to i
 
 A cluster analysis is then performed by plotting an elbow plot to determine an optimal number of clusters using k-Means.
 
-Results indicate it is impractical to categorize the various types of cryptocurrency.
+### Results indicate it would not be meaningful to categorize cryptocurrencies.
     
